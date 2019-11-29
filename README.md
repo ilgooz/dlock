@@ -1,0 +1,2 @@
+## dlock
+dlock is a distributed lock to enable synchronization in distributed environments. Its API is very similar to `sync.Mutex` and underlying `Store` can be implemented for any data storage by the consumers.
